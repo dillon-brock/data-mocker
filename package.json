@@ -1,0 +1,18 @@
+{
+  "name": "data-mocker",
+  "version": "1.0.0",
+  "description": "A package for generating mock data from a schema while maintaining relationshis between entites",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillon-brock/data-mocker.git"
+  },
+  "author": "Dillon Brock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillon-brock/data-mocker/issues"
+  },
+  "homepage": "https://github.com/dillon-brock/data-mocker#readme"
+}
